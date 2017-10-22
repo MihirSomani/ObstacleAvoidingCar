@@ -1,4 +1,4 @@
 # ObstacleAvoidingCar
-<b>Arduino<b> programmed Obstacle Avoiding Car
-<p>What's up</p>
+<p><b>Objective: </b>This miniature car avoides obstacles using Ultrasonic sensor programmed in Arduino.</p>
+
 
