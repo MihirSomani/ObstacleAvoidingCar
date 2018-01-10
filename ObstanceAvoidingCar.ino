@@ -16,8 +16,8 @@ const int motorPin8  = 6;
 int pos = 0; 
 const int trigPin = 25;
 const int echoPin = 27;
-const int min = 1;
-const int max = 60;
+const int min = 1; //Sets minimum range as 1cm
+const int max = 60; //Sets maximum range as 60cm
 long duration;
 int distance;
 int distance1;
